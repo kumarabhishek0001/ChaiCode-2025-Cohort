@@ -1,0 +1,18 @@
+div{
+    border: 2px solid black;
+    
+}
+
+.parent{
+    height: 500px;
+    display: flex;
+
+    flex-direction: column;
+    justify-content: end;
+}
+
+.child{
+    height: 100px;
+    width: 50px;
+}
+
