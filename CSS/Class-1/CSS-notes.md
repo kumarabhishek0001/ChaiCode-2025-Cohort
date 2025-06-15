@@ -1,4 +1,6 @@
 # Notes
+
+***class-1***
 **properites**
 - display : inline / block / inline block / flex
 - display : flex -> can controll the children inside a parent div
@@ -19,3 +21,6 @@
 
 ### Resources
 - [Flex-Box](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+
+***class-2***
