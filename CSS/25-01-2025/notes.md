@@ -41,3 +41,9 @@
 ## Positioning
 - position : static / absolute / fixed / relative / sticky
     - top : 40px
+
+**Home Work**
+- crisp
+- buffer
+- planet-scale
+- Skip Labs
