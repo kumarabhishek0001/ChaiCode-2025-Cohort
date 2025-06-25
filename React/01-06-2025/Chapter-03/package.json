@@ -1,0 +1,19 @@
+{
+  "name": "chapter-03",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write \"src/**/*.{js,jsx,ts,tsx,json,css,html}\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "eslint": "^9.29.0",
+    "eslint-plugin-react": "^7.37.5",
+    "globals": "^16.2.0",
+    "prettier": "^3.6.0"
+  }
+}
