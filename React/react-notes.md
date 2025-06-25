@@ -1,8 +1,9 @@
-## 17-05-2025
+# 17-05-2025
 
-**Chapter-00**
-*npm create @vite/latest*
-index.html -> loads a scipt i.e main.jsx -> this main.jsx refers to a function called app.js -> app.jsx returns a html
+## Chapter-00
+commmand - *npm create @vite/latest*
+
+index.html -> loads a scipt i.e main.jsx -> this main.jsx refers to a function called app.js -> app.jsx returns an html
 
 ## Chapter-01
 *CDN* -> unpkg or ems
@@ -43,3 +44,20 @@ Prettier & Eslint
 - For React to understand HTML we use **BABEL**
 
 - we are not using reutrn in our chai and app functions because we use () => () which does not require a return statements while () => {} does
+
+## Chapter-5
+Hot module replacemetn(HMR) - live website relode
+
+js-module-bundeler - parcel, esbuild, rollup
+vite-alternative - webpack, parcel, snowpack, RSpack
+
+**vite rules**
+- keep app and index.js in src
+- js -> jsx
+
+## chapter-6
+first paint 
+first interactive paint
+first contentfull paint
+
+# 18-05-2025
