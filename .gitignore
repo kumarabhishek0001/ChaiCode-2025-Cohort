@@ -1,2 +1,4 @@
+node_modules
+package-lock.json
 array-methods.js
 array.js
