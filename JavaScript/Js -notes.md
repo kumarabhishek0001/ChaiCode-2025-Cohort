@@ -84,3 +84,8 @@ make object a string -> copy the string -> make string an object -> store it in 
 
 - serialization and Deserialization of trees/pickling in python
 
+## 09-02-2025
+
+- if keys have space how would you access
+    - we use object["key name"]
+
