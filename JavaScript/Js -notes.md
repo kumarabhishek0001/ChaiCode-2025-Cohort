@@ -86,6 +86,11 @@ make object a string -> copy the string -> make string an object -> store it in 
 
 ## 09-02-2025
 
+**objects revesion**
 - if keys have space how would you access
     - we use object["key name"]
 
+**Prototypes**
+- this 
+- Array.prototype.forEach polyfill
+- Array.prototype.map polyfill
