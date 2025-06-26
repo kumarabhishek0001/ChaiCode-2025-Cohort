@@ -94,3 +94,4 @@ make object a string -> copy the string -> make string an object -> store it in 
 - this 
 - Array.prototype.forEach polyfill
 - Array.prototype.map polyfill
+- Array.prototype.filter polyfill
