@@ -95,3 +95,17 @@ make object a string -> copy the string -> make string an object -> store it in 
 - Array.prototype.forEach polyfill
 - Array.prototype.map polyfill
 - Array.prototype.filter polyfill
+
+## 15-02-2025
+- prototypal Inheriteance -> even if we change the __proto__ to refernce other object we will still have all the Object.__proto__ funtions in it
+
+- Autoboxing/wrapper object
+    - whenever you write a string lets say hello. I should be treated like a normal string but wehn you call methods on it JS temporarily wraps it in a string Object 
+    ```JS
+        const objString = new String(string_var)
+    ```
+    this is called autoboxing
+
+- Why is everything in JS an object
+
+- extends in classes
